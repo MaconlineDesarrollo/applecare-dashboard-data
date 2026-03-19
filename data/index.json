@@ -1,4 +1,20 @@
-
 {
-  "files": []
+  "files": [
+    {
+      "date": "2026-03-17",
+      "ventas": "data/ventas_2026_03_17.csv",
+      "log": "data/enrolamientos_2026_03_17.csv",
+      "nc": "data/NC_2026_03_17.csv"
+    },
+    {
+      "date": "2026-03-18",
+      "ventas": "data/ventas_2026_03_18.csv",
+      "log": "data/enrolamientos_2026_03_18.csv"
+    },
+    {
+      "date": "2026-03-19",
+      "ventas": "data/ventas_2026_03_19.csv",
+      "log": "data/enrolamientos_2026_03_19.csv"
+    }
+  ]
 }
