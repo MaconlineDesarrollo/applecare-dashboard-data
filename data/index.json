@@ -72,6 +72,11 @@
       "date": "2026-03-30",
       "ventas": "data/ventas_2026_03_30.csv",
       "log": "data/enrolamientos_2026_03_30.csv"
+    },
+    {
+      "date": "2026-03-31",
+      "ventas": "data/ventas_2026_03_31.csv",
+      "log": "data/enrolamientos_2026_03_31.csv"
     }
   ]
 }
