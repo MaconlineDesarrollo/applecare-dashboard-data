@@ -210,6 +210,11 @@
       "date": "2026-04-25",
       "ventas": "data/ventas_2026_04_25.csv",
       "log": "data/enrolamientos_2026_04_25.csv"
+    },
+    {
+      "date": "2026-04-26",
+      "ventas": "data/ventas_2026_04_26.csv",
+      "log": "data/enrolamientos_2026_04_26.csv"
     }
   ]
 }
