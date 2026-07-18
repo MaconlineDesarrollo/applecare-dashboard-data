@@ -252,6 +252,12 @@
       "date": "2026-07-16",
       "ventas": "data/ventas_2026_07_16.csv",
       "log": "data/enrolamientos_2026_07_16.csv"
+    },
+    {
+      "date": "2026-07-17",
+      "ventas": "data/ventas_2026_07_17.csv",
+      "log": "data/enrolamientos_2026_07_17.csv",
+      "nc": "data/NC_2026_07_17.csv"
     }
   ]
 }
