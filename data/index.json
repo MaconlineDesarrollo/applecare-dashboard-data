@@ -333,6 +333,11 @@
       "date": "2026-07-31",
       "ventas": "data/ventas_2026_07_31.csv",
       "log": "data/enrolamientos_2026_07_31.csv"
+    },
+    {
+      "date": "2026-08-01",
+      "ventas": "data/ventas_2026_08_01.csv",
+      "log": "data/enrolamientos_2026_08_01.csv"
     }
   ]
 }
