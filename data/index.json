@@ -360,6 +360,12 @@
       "ventas": "data/ventas_2026_08_05.csv",
       "log": "data/enrolamientos_2026_08_05.csv",
       "nc": "data/NC_2026_08_05.csv"
+    },
+    {
+      "date": "2026-08-06",
+      "ventas": "data/ventas_2026_08_06.csv",
+      "log": "data/enrolamientos_2026_08_06.csv",
+      "nc": "data/NC_2026_08_06.csv"
     }
   ]
 }
