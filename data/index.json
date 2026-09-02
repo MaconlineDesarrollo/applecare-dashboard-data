@@ -502,6 +502,11 @@
       "ventas": "data/ventas_2026_08_31.csv",
       "log": "data/enrolamientos_2026_08_31.csv",
       "nc": "data/NC_2026_08_31.csv"
+    },
+    {
+      "date": "2026-09-01",
+      "ventas": "data/ventas_2026_09_01.csv",
+      "log": "data/enrolamientos_2026_09_01.csv"
     }
   ]
 }
