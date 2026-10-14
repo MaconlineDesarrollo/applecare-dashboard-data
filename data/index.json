@@ -728,6 +728,12 @@
       "date": "2026-10-12",
       "ventas": "data/ventas_2026_10_12.csv",
       "log": "data/enrolamientos_2026_10_12.csv"
+    },
+    {
+      "date": "2026-10-13",
+      "ventas": "data/ventas_2026_10_13.csv",
+      "log": "data/enrolamientos_2026_10_13.csv",
+      "nc": "data/NC_2026_10_13.csv"
     }
   ]
 }
